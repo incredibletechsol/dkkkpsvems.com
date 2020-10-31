@@ -1,0 +1,199 @@
+"2018-04-13 10:27:15",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Pansare Sandip Sadashiv',designation='Principal',qualification='B.A.B.ed D.S.M.',experience='5' where id='1'",297,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:44:58",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='1'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:44:58",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:44:59",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='1'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:44:59",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:21",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='6'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:21",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:22",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='6'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:22",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:32",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='7'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:32",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:42",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='10'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:42",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:53",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='11'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:45:53",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:02",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='12'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:02",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:13",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='15'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:13",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:27",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='18'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:27",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:39",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='19'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:39",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:48",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='20'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:46:48",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:04",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='22'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:04",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:15",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='30'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:15",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:25",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='28'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:25",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:36",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='25'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:36",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:55",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='35'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:47:55",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:07",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='36'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:07",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:16",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='34'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:16",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:25",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='38'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:25",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:35",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='39'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:35",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:54",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='24'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:48:54",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:05",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='41'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:05",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:24",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='53'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:24",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:33",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='52'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:33",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:33",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='52'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:33",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:44",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='48'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:49:44",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:04",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='50'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:04",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:20",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='57'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:20",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:31",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='58'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:31",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:31",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='58'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:31",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:49",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='47'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:50:49",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:05",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='46'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:05",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:18",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='64'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:18",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:32",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='44'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:32",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:46",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='43'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:46",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:54",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='67'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:51:54",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:04",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='70'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:04",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:26",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='86'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:26",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:37",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='87'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:37",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:51",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='89'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:52:51",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:00",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='90'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:00",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:09",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='83'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:09",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:19",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='81'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:19",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:35",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='79'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:35",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:45",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='76'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:45",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:55",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='75'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:53:55",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:54:06",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='73'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:54:06",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:54:19",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='77'",197,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:54:19",INFO,--,"Faculty Data Deleted",199,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/facultyactions.php
+"2019-07-29 08:59:25",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='61'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:25",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:29",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='60'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:29",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:35",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='59'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:35",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:41",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='58'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:41",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:49",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='56'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:49",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:55",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='57'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:55",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:59",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='55'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 08:59:59",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:00:04",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='54'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:00:05",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:00:10",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='53'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:00:10",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:00:15",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='52'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:00:15",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:08:28",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4139.JPG','Ashadhi Ekadashi')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:08:28",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:09:04",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4121.JPG','Ashadhi Ekadashi')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:09:04",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:09:27",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4148.JPG','Ashadhi Ekadashi')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:09:28",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:09:48",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4163.JPG','Ashadhi Ekadashi')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:09:48",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:10:09",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4287.JPG','Ashadhi Ekadashi')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-07-29 09:10:09",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:10:13",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4490.JPG','Poem Competition')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:10:13",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:10:36",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4496.JPG','Poem Competition')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:10:36",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:26:00",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4583.JPG','Tree Plantation Activity')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:26:00",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:26:17",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4601.JPG','Tree Plantation Activity')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:26:17",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:26:32",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4603.JPG','Tree Plantation Activity')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:26:32",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:27:15",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='63'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:27:15",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:27:35",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4572.JPG','Seed Ball Activity')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-02 05:27:35",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:57:21",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='71'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:57:21",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:58:17",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='62'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:58:17",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:59:02",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4689.JPG','Nag Panchami Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:59:02",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:59:26",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4626.JPG','Nag Panchami Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-03 08:59:26",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:06:18",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='74'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:06:18",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:06:25",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='73'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:06:25",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:06:42",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='72'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:06:42",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:09:29",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4729.JPG','15 August Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:09:29",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:13:34",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4721.JPG','15 August Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:13:34",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:15:44",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4851.JPG','15 August Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 04:15:44",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 10:16:24",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='67'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 10:16:24",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 10:16:50",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_4759.JPG','15 August Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-21 10:16:50",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:30:50",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='78'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:30:50",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:31:03",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='70'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:31:03",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:32:52",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_5163.JPG','Krushna Janmashtmi Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:32:52",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:35:46",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_5213.JPG','Krushna Janmashtmi Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:35:47",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:36:03",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='77'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:36:03",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:37:30",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_5183.JPG','Krushna Janmashtmi Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-23 07:37:30",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:38:25",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='76'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:38:25",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:38:37",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='75'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:38:37",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:42:24",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_5322.JPG','Sports Day Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:42:24",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:43:07",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_5261.JPG','Sports Day Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-08-30 06:43:07",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:07:58",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='64'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:07:58",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:08:11",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='68'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:08:11",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:24:58",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_5521.JPG','Teachers Day Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:24:59",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:25:37",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG_5354.JPG','Teachers Day Celebration')",75,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-09-09 05:25:37",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-10-16 07:39:37",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='84'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-10-16 07:39:37",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-10-16 07:39:42",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='85'",176,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
+"2019-10-16 07:39:42",INFO,--,"Gallery Data Deleted",178,/home/dkkkpmba/public_html/dkkkpsvems.com/ControlPanel/galleryactions.php
